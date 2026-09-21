@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://undixi.github.io/zhengnenglia/sitemap.xml
